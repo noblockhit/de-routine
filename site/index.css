@@ -7,7 +7,7 @@
 }
 
 .navbar {
-  background: #112c7c;
+  background: #434C5E;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -93,7 +93,7 @@
 }
 
 .navbar__links:hover {
-  color: #88C0D0;
+  color: #2E3440;
   transition: all 0.3s ease;
 }
 
