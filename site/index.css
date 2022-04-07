@@ -175,5 +175,18 @@
 /* Main Section */
 
 .main {
-  background: #434C5E;
+  background: #2E3440;
+  padding: 200px 0;
+}
+
+.main__container {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 99%;
+  text-align: center;
+  padding: 30px;
 }
