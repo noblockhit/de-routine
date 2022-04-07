@@ -191,3 +191,20 @@
   text-align: center;
   padding: 30px;
 }
+
+.main__heading {
+  font-size: 100px;
+  margin-bottom: 24px;
+  color: #fff;
+}
+
+.main__heading span {
+  background: #2193b0;  
+  background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0); 
+  background: linear-gradient(to right, #6dd5ed, #2193b0); 
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
