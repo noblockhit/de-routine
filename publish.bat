@@ -1,9 +1,9 @@
 git add .
 git status 
 git commit -m $1
-git push origin master
+git push origin main
 
 git checkout gh-pages 
-git rebase master 
+git rebase main 
 git push origin gh-pages 
-git checkout master 
+git checkout main 
