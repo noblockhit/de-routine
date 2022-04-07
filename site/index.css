@@ -107,6 +107,7 @@
     max-width: 1300px;
     padding: 0;
   }
+}
 
 .navbar__menu {
   display: grid;
