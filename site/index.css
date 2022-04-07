@@ -208,3 +208,9 @@
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
 }
+
+/* Idea Section */
+.ideas {
+  background-color: #2E3440;
+  padding: 10rem 0;
+}
