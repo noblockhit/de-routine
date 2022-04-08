@@ -209,6 +209,20 @@
   -moz-text-fill-color: transparent;
 }
 
+.main__btn {
+  width: 186em;
+  height: 5em;
+  background-color: #E36D8A;
+  border-radius: 5px;
+  border: none;
+}
+
+.main__btn a {
+  color: #fff;
+  font-size: 2em;
+  text-decoration: none;
+}
+
 /* Idea Section */
 .ideas {
   background-color: #2E3440;
