@@ -1,0 +1,45 @@
+.questions {
+    background-color: #2e3440;
+    padding: 0 0;
+}
+
+.question__heading {
+    text-align: center;
+    font-size: 3em;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.question__option {
+    width: 100%;
+}
+
+.question__option label {
+    display: inline-block;
+    width: 90%;
+    font-weight: normal;
+    font-size: 1.5em;
+    color: #fff;
+    background-color: #6dd5ed;
+    border: .5em solid #6dd5ed;
+    border-radius: .5em;
+    text-align: center;
+}
+
+.question__option input {
+    width: 0;
+    height: 0;
+}
+
+.question__option input:checked + label {
+    background-color: #e36d8a;
+    border: .5em solid #e36d8a;
+}
+
