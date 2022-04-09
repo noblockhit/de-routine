@@ -11,16 +11,18 @@
 }
 
 .grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80rem;
     margin: 0 auto;
 }
 
 .question__option {
-    width: 100%;
+  width: 20rem;
+  padding: 20px;
+  margin: 10px;
 }
-
 .question__option label {
     display: inline-block;
     width: 90%;
