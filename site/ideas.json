@@ -1,7 +1,33 @@
 {
-    "sport_ideas" : [],
+    "sport_ideas": [
+        {
+            "id": "1",
+            "title": "Football",
+            "description": "Football is a team sport played between two teams of eleven players with a spherical ball. The ball is kicked with the foot to score a goal. Goals are scored by the team with the ball in its centre. The team with the most goals at the end of the game wins.",
+            "tags": ["team", "occasional", "ball", "goal", "field"]
+        },
+        {
+            "id": "2",
+            "title": "Basketball",
+            "description": "Basketball is a team sport played between two teams of five players on a rectangular court. The objective of the game is to shoot a ball through a hoop set at the centre of the court. The team with the most points at the end of the game wins.",
+            "tags": ["team", "occasional", "ball", "hoop", "court"]
+        },
+        {
+            "id": "3",
+            "title": "Baseball",
+            "description": "Baseball is a bat-and-ball game played between two teams of nine players each, who take turns batting and fielding. The aim is to score runs by hitting the ball with a bat with the right hand, called a strike. The team with the most runs at the end of the game wins.",
+            "tags": ["team", "occasional", "ball", "bat", "field"]
+        },
+        {
+            "id": "4",
+            "title": "Tennis",
+            "description": "Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over a net.",
+            "tags": ["team", "solo", "ball", "racket", "net", "court", "field"]
+        }
+    ],
+
     "development_ideas": [],
-    "cooking_ideas" : [],
+    "cooking_ideas": [],
     "learning_ideas": [],
     "social_ideas": []
 }
