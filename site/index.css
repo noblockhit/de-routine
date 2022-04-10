@@ -6,7 +6,10 @@
     border: none;
 }
 
-
+.getstarted__btn:hover {
+    background-color:#32cffb;
+    transition: 0.5s;
+}
 
 .getstarted__btn a {
     color: #fff;
