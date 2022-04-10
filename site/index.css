@@ -2,9 +2,11 @@
     width: 18em;
     height: 5em;
     background-color: #e36d8a;
-    border-radius: 5px;
+    border-radius: 100px;
     border: none;
 }
+
+
 
 .getstarted__btn a {
     color: #fff;
