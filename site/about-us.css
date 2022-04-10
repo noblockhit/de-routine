@@ -1,0 +1,75 @@
+.who__heading {
+    background-color: #fff;
+    background-image: linear-gradient(to top, #d8dee9, #e5e9f0);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.who__para {
+    background-color: #fff;
+    background-image: linear-gradient(to top, #d8dee9, #e5e9f0);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.what__heading {
+    background-color: #fff;
+    background-image: linear-gradient(to top, #d8dee9, #e5e9f0);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.what__para {
+    background-color: #fff;
+    background-image: linear-gradient(to top, #d8dee9, #e5e9f0);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
