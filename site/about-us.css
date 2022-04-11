@@ -1,3 +1,7 @@
+.main__container {
+    width: 70%;
+}
+
 .who__heading {
     background-color: #fff;
     background-image: linear-gradient(to top, #d8dee9, #e5e9f0);
@@ -8,7 +12,7 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     display: flex;
-    align-items: center;
+    align-items: left;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
@@ -27,7 +31,7 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     display: flex;
-    align-items: center;
+    align-items: left;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
@@ -46,7 +50,7 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     display: flex;
-    align-items: center;
+    align-items: left;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
@@ -65,11 +69,15 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     display: flex;
-    align-items: center;
+    align-items: left;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
     padding-left: 25px;
     padding-top: 15px;
     padding-bottom: 10px;
+}
+
+.what__para p, .who__para p {
+    text-align: left;
 }
